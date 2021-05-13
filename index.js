@@ -44,5 +44,5 @@ const [, , , , , indg, ] = colors;
 // Objects
 
 // 7. Use destructuring to assign all variables using the keys as the variable names
-const {nestedName, nestedColor, album, nestedJob, nestedPartner} = nestedMuppet;
+const {muppetName, color, song, job, partner} = muppetName;
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
